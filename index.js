@@ -230,4 +230,4 @@ if(message.content ===prefix + "help"){
 
 //-----------------------------------------------------------------
 
-Client.login("ExRFTtB5Ez9p8Dpxtucroisvraimentavoirmontoken58degGerf5yWez")
+Client.login("")
